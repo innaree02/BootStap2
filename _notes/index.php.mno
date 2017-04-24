@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_BillSet" value="name:Code_Item;datatype:int,name:Type_Item;datatype:string,name:Name_Item;datatype:string,name:Count_Item;datatype:int,name:Pice_Item;datatype:real" />
+	<infoitem key="UD_ShowData" value="name:Code_Item;datatype:int,name:Type_Item;datatype:string,name:Customer_Name;datatype:string,name:Customer_Lname;datatype:string,name:Name_Item;datatype:string,name:Count_Item;datatype:int,name:Pice_Item;datatype:real,name:Date_Item;datatype:date" />
+</info>
